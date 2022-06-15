@@ -1,2 +1,2 @@
 # School assignments for Agile.
-# Year 1, P4.
+# Year 1, P4
